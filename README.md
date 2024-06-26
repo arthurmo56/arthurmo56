@@ -1,20 +1,34 @@
-<h1 align="center">Ola 👋, me chamo Arthur Oliveira</h1>
-<h3 align="center">Estou no 4º período de Ciência da Computação</h3>
+## Olá 👋! Me chamo Arthur Oliveira.
 
-- 🔭Atualmente trabalhando com **suporte técnico em TI**
+- 💡 Estou no 4° período de Ciência da Computação pela PUC Minas.
+- 📌 Trabalho com suporte técnico em TI.
+- 📜 Atualmente aprendendo Node.js e IA.
+- 🔍 Toda ajuda é bem-vinda!
 
-- 🌱 Recentemente estou aprendendo **node.js e IA**
+<!-- JANELA DE STATUS -->
 
-- 📫Entre em contato comigo **arthurm.oliveira56@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/armoliveira1004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armoliveira1004" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurmo56&show_icons=true&locale=en" alt="arthurmo56" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurmo56&" alt="arthurmo56" /></p>
+<div align="center">
+  <a href="https://github.com/arthurmo56">
+  <img height="185em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmo56&layout=compact&langs_count=7&theme=highcontrast"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DanielSalgadoM7&theme=highcontrast&hide_border=true&hide_total_contributions=true" alt="GitHub Streak" /></a>
+</div>
+  
+   <div style="display: inline_block" align="center"><br>
+    <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="C" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  </div>
+  
+##
+  
+   <div style="display: inline_block" align="center">
+  <h1>📲Contact me</h1><br>
+ 
+  <a href = "mailto:arthurm.oliveira56@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/daniel-salgado-48a95b238/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
+  
+  ##
+  
