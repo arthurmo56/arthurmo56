@@ -1,7 +1,7 @@
 ## Olá 👋! Me chamo Arthur Oliveira.
 
-- 💡 Estou no 4° período de Ciência da Computação pela PUC Minas.
-- 📌 Trabalho com suporte técnico em TI.
+- 💡 Estou no 6° período de Ciência da Computação pela PUC Minas.
+- 📌 Trabalho como Desenvolvedor FullStack.
 - 📜 Atualmente aprendendo Node.js e IA.
 - 🔍 Toda ajuda é bem-vinda!
 
